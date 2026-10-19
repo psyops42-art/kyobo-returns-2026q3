@@ -1,0 +1,14 @@
+[
+  {
+    "plan": "DC",
+    "value": 23.3,
+    "rank": 1,
+    "count": 15
+  },
+  {
+    "plan": "IRP",
+    "value": 22.81,
+    "rank": 1,
+    "count": 15
+  }
+]
