@@ -2,13 +2,13 @@
 
 2026년 3분기 제공 HTML을 기반으로 한 정적 대시보드입니다.
 
-공유 주소: https://kyobo-returns-2026q3.psyops42.chatgpt.site/
+공유 주소: https://psyops42-art.github.io/kyobo-returns-2026q3/
 
 - DC 1년: 23.30%, 1위
 - 개인IRP 1년: 22.81%, 1위
 - 순위: 파일 내 적립금 상위 15개 사업자 중 유효 수익률 기준, 동률은 공동 순위
 - 원본 데이터와 화면 기능 유지. 외부 공시 수치 재검증은 별도로 수행하지 않음.
-- dist/index.html: 배포 페이지
-- dist/thumbnail.png: 1200×630 공유 썸네일
+- index.html: 배포 페이지
+- thumbnail.png: 1200×630 공유 썸네일
 
-실행: 정적 HTTP 서버로 dist 폴더를 제공하거나 index.html을 브라우저에서 열기.
+실행: 정적 HTTP 서버로 파일이 있는 폴더를 제공하거나 index.html을 브라우저에서 열기.
